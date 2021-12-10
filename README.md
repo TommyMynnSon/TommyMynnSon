@@ -1,16 +1,11 @@
-### Hi there 👋
+## Daily Habits
+- 1 Advent of Code (https://adventofcode.com) problem / day.
+  - Repository: Coming Soon
+- 2 snippets of technologies (languages, libraries, frameworks, etc.) I have never used prior / day.
+  - Repository: Coming Soon
+- 3 LeetCode (https://leetcode.com) technical questions / day.
+  - Repository: Coming Soon
 
-<!--
-**TommyMynnSon/TommyMynnSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+- The most simple and straightforward shift scheduling web application for small businesses.
+  - Repository: Coming Soon
