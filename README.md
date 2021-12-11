@@ -1,6 +1,9 @@
-## [Friday December 10, 2021] Currently...
-- Formatting README.md of my Lighthouse Labs Final Project repository with my teammates [DONE]
+## [Friday December 10, 2021] TODOs
+- Formatting README.md of my Lighthouse Labs Final Project repository with my teammates. :white_check_mark:
 - Cleaning up my GitHub profile.
+- 1 Advent of Code problem.
+- 2 snippets of technologies.
+- 3 LeetCode technical questions.
 
 ## Daily Habits
 - 1 Advent of Code problem / day.
