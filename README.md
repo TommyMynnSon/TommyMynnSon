@@ -2,8 +2,8 @@
 - Formatting README.md of my Lighthouse Labs Final Project repository with my teammates. :white_check_mark:
 - Cleaning up my GitHub profile. :white_check_mark:
 - 1 Advent of Code problem. :white_check_mark:
-- 2 snippets of technologies.
-- 3 LeetCode technical questions.
+- 2 snippets of technologies. :x:
+- 3 LeetCode technical questions. :x:
 
 ## Daily Habits
 - 1 Advent of Code problem / day.
