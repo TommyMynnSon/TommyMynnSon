@@ -1,6 +1,6 @@
-## Currently...
-- Formatting README.md of my Lighthouse Labs Final Project repository with my teammates.
-
+## [Friday December 10, 2021] Currently...
+- Formatting README.md of my Lighthouse Labs Final Project repository with my teammates [DONE]
+- Cleaning up my GitHub profile.
 
 ## Daily Habits
 - 1 Advent of Code (https://adventofcode.com) problem / day.
