@@ -12,4 +12,4 @@
 
 ## Current Project
 - The most simple and straightforward shift scheduling web application for small businesses.
-  - Repository: Coming Soon
+  - Repository: https://github.com/TommyMynnSon/NDT-Schedules
