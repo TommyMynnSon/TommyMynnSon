@@ -1,16 +1,16 @@
-## [Friday December 10, 2021] TODOs
-- Formatting README.md of my Lighthouse Labs Final Project repository with my teammates. :white_check_mark:
-- Cleaning up my GitHub profile. :white_check_mark:
-- 1 Advent of Code problem. :white_check_mark:
-- 2 snippets of technologies. :x:
-- 3 LeetCode technical questions. :x:
+## [Saturday December 11, 2021] TODOs
+- 1x Advent of Code problem.
+- 2x snippets of technologies.
+- 3x LeetCode technical questions.
+- User stories for NDT Schedules.
+- Wire Frames for NDT Schedules.
 
 ## Daily Habits
-- 1 Advent of Code problem / day.
+- 1x Advent of Code problem / day.
   - Repository: https://github.com/TommyMynnSon/Advent-Of-Code-2021
-- 2 snippets of technologies / day.
+- 2x snippets of technologies / day.
   - Repository: https://github.com/TommyMynnSon/Snippets
-- 3 LeetCode technical questions / day.
+- 3x LeetCode technical questions / day.
   - Repository: https://github.com/TommyMynnSon/LeetCode
 
 ## Current Project
