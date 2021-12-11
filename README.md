@@ -3,7 +3,7 @@
 - 2x snippets of technologies.
 - 3x LeetCode technical questions.
 - User stories for NDT Schedules.
-- Wire Frames for NDT Schedules.
+- Wireframes for NDT Schedules.
 
 ## Daily Habits
 - 1x Advent of Code problem / day.
