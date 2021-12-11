@@ -3,12 +3,12 @@
 - Cleaning up my GitHub profile.
 
 ## Daily Habits
-- 1 Advent of Code (https://adventofcode.com) problem / day.
-  - Repository: Coming Soon
-- 2 snippets of technologies (languages, libraries, frameworks, etc.) I have never used prior / day.
-  - Repository: Coming Soon
-- 3 LeetCode (https://leetcode.com) technical questions / day.
-  - Repository: Coming Soon
+- 1 Advent of Code problem / day.
+  - Repository: https://github.com/TommyMynnSon/Advent-Of-Code-2021
+- 2 snippets of technologies / day.
+  - Repository: https://github.com/TommyMynnSon/Snippets
+- 3 LeetCode technical questions / day.
+  - Repository: https://github.com/TommyMynnSon/LeetCode
 
 ## Current Project
 - The most simple and straightforward shift scheduling web application for small businesses.
