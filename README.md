@@ -1,3 +1,7 @@
+## Currently...
+- Formatting README.md of my Lighthouse Labs Final Project repository with my teammates.
+
+
 ## Daily Habits
 - 1 Advent of Code (https://adventofcode.com) problem / day.
   - Repository: Coming Soon
