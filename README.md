@@ -1,5 +1,5 @@
 ## [Sunday December 12, 2021] TODOs
-- 1x Advent of Code problem.
+- 1x Advent of Code problem. ✅
 - 2x snippets of technologies.
 - 3x LeetCode technical questions.
 - User stories for NDT Schedules.
