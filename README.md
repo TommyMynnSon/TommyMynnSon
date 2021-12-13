@@ -1,9 +1,9 @@
 ## [Saturday December 11, 2021] TODOs
-- 1x Advent of Code problem.
-- 2x snippets of technologies.
-- 3x LeetCode technical questions.
-- User stories for NDT Schedules.
-- Wireframes for NDT Schedules.
+- 1x Advent of Code problem. :white_check_mark:
+- 2x snippets of technologies. :x:
+- 3x LeetCode technical questions. :x:
+- User stories for NDT Schedules. :x:
+- Wireframes for NDT Schedules. :x:
 
 ## Daily Habits
 - 1x Advent of Code problem / day.
