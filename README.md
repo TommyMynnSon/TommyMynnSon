@@ -1,16 +1,9 @@
-## [Sunday December 12, 2021] TODOs
-- 1x Advent of Code problem. ✅
-- 2x snippets of technologies.
-- 3x LeetCode technical questions.
-- User stories for NDT Schedules.
-- Wireframes for NDT Schedules.
-
 ## Daily Habits
-- 1x Advent of Code problem / day.
+- Min. 1x Advent of Code problem / day.
   - Repository: https://github.com/TommyMynnSon/Advent-Of-Code-2021
-- 2x snippets of technologies / day.
+- Min. 1x snippet of technology / day.
   - Repository: https://github.com/TommyMynnSon/Snippets
-- 3x LeetCode technical questions / day.
+- Min. 1x LeetCode technical question / day.
   - Repository: https://github.com/TommyMynnSon/LeetCode
 
 ## Current Project
