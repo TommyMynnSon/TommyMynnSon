@@ -7,5 +7,6 @@
   - Repository: https://github.com/TommyMynnSon/LeetCode
 
 ## Current Project
-- The most simple and straightforward shift scheduling web application for small businesses.
+- Learning blockchain technology (specifically the XRP Ledger)
+- (DELAYED) The most simple and straightforward shift scheduling web application for small businesses.
   - Repository: https://github.com/TommyMynnSon/NDT-Schedules
