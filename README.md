@@ -3,7 +3,7 @@
 AlgoExpert
 <br/>
 (Repository: https://github.com/TommyMynnSon/AlgoExpert-Personal-Notes)
-- [:hourglass_flowing_sand:] Complete Sorted Squared Array Coding Interview Question
+- [:white_check_mark:] Complete Sorted Squared Array Coding Interview Question
 - [:hourglass_flowing_sand:] Complete Tournament Winner Coding Interview Question
 - [:hourglass_flowing_sand:] Complete Systems Design Fundamentals
 
