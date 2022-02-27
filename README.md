@@ -1,10 +1,8 @@
-# Today's Tasks
+# Tasks to Complete
 
 AlgoExpert
 <br/>
 (Repository: https://github.com/TommyMynnSon/AlgoExpert-Personal-Notes)
-- [:white_check_mark:] Complete Sorted Squared Array Coding Interview Question
-- [:white_check_mark:] Complete Tournament Winner Coding Interview Question
 - [:hourglass_flowing_sand:] Complete Systems Design Fundamentals
 
 LeetCode
